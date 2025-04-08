@@ -41,11 +41,6 @@ cd amber_barlow_2025
 ```
 After successfully cloning the repo, just download Conda jupyter environment
 
-### Setting Up the Environment
-
-#### 1: Using Conda and Jupyter Notebook
-```
-
 ## Usage
 The usage of the project is extremely straightforward and has been constructed in such way to accommodate users with minimal programming experience. Just make sure the file is inside your computer, find the folder in which it is stored, and then connect to a kernel.
 
