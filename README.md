@@ -1,4 +1,4 @@
-# Research Computing Coursework: Sudoku Solver
+# The Elusive Companions to Dwarf Carbon Stars
 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
