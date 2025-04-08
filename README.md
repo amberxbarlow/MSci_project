@@ -7,23 +7,16 @@
 
 
 ## Contents
-- [Motivation and Description](#motivation-and-description)
-  - [Motivation](#motivation)
-  - [Description](#description)
+- [Description](#description)
 - [Installation and Setup](#installation-and-setup)
   - [Cloning the Repository](#cloning-the-repository)
 - [Usage](#usage)
 - [Credits](#credits)
 
-## Motivation and Description
-### Motivation
-
-
 
 ![Sudoku Solver Animation](https://cronodon.com/images/contact_binary_1.gif)
 ### Description
-
-
+This code constructs colour-colour diagrams using photometric data from SDSS and GALEX for 963 high-confidence dC stars. Additionally, it computes spectral energy distributions for the 5 identified dC stars exhibiting NUV and FUV excess in GALEX.
 
 
 ## Installation and Setup
